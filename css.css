@@ -1,0 +1,8 @@
+.active{
+  background-color:rgba(110, 103, 103, 0.73);
+}
+
+#modal{
+  display:none;
+}
+

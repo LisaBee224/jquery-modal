@@ -4,5 +4,14 @@
 
 #modal{
   display:none;
+  width:350px;
+  margin:0 auto;
+  border: 1px solid #333;
+  padding:2%;
+  background-color:blue;
 }
 
+.close{
+  color: #fff;
+  font-size:2em;
+}
